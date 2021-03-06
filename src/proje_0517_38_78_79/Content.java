@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author {Sercan Bayram:05170000038, Egemen Aydın:05170000078, Oğuz Türk:05170000079} 
+ * @author oğuz TURK
  */
 public class Content {
     //words = sözlük , metin = Text Area içeriğini tutar.
