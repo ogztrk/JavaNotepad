@@ -15,7 +15,6 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author {Sercan Bayram:05170000038, Egemen Aydın:05170000078, Oğuz Türk:05170000079} 
  */
 public class kayitForm extends javax.swing.JFrame {
     ImageIcon img = new ImageIcon("logo.jpg");
